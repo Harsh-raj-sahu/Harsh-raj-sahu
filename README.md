@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Aspiring+Data+Scientist;2nd+Year+BTech+CSE+Student;Passionate+about+Tech+%26+Innovation)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Aspiring+Software+Engineer;2nd+Year+BTech+CSE+Student;Passionate+about+Tech+%26+Innovation)
   
 </div>
 
@@ -74,17 +74,6 @@ Status: 🔄 In Progress
 
 Project details coming soon...
 </details>
-
-## 📈 GitHub Stats
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Divyanshu-Kumar19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu-Kumar19&layout=compact&theme=tokyonight&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Divyanshu-Kumar19&theme=tokyonight&hide_border=true)
-
 </div>
 
 ## 📫 Let's Connect!
