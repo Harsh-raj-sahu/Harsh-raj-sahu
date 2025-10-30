@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a 2nd Year Undergraduate pursuing BTech in Computer Science and Engineering at ITER, SOA University. Passionate about technology and constantly evolving with the tech landscape, I'm exploring the exciting world of **Data Science and Machine Learning while building a strong foundation in software development.
+I'm a 2nd Year Undergraduate pursuing BTech in Computer Science and Engineering at ITER, SOA University. Passionate about technology and constantly evolving with the tech landscape, I'm exploring the exciting world of **Machine Learning while building a strong foundation in software development.
 
 - 🎓 Currently learning: Python Libraries
 - 💻 Problem Solver: Active on competitive coding platforms
